@@ -1,0 +1,179 @@
+*{
+		padding: 0px;
+		margin: 0px;
+	}
+.titulo{
+color:whitesmoke;
+		font-size: 100px;
+		font-family: Consolas;
+		background-color: purple;
+		letter-spacing: 13px;
+		text-shadow: 5px 5px 2px gray;
+}
+.titulo2{
+color:palevioletred;
+		font-size: 100px;
+		font-family: Consolas;
+		text-decoration: underline;
+		text-shadow: 4px 4px 5px gray;
+}
+.titulo3{
+color:palevioletred;
+		font-size: 100px;
+		font-family: Consolas;
+		text-decoration: underline;
+		text-shadow: 4px 4px 5px gray;
+		
+}
+	.menu{
+		color:whitesmoke;
+		font-size: 40px;
+		font-family: Consolas;
+		background-color: rebeccapurple;
+		text-align: center;
+		text-decoration: none;
+		border-block: 4px solid mediumpurple;
+		letter-spacing: 6px;
+		word-spacing: 6px;
+	}
+	.menu a:hover{
+		font-size: 60px;
+		color:red;
+		
+	}
+
+	.imagenprincipal{
+		width:1900px;
+		height:900px;
+	}
+	.imagenpie{
+		width:100px;
+		heigth:100px;
+		background-color: black;
+	}
+	.pie{
+		color: darkred;
+		background-color: lavender;
+		padding: 8px;
+		font-size: 18px;
+	}
+	.parrafo1{
+		font-size: 23px;
+		font-family: Consolas;
+		border: 4px solid black;
+		border-radius: 15px;
+		box-shadow: 3px 3px 12px gray;
+		text-align: justify;
+		margin: 20px;
+		padding: 30px;
+		line-height: 2;
+		width: 1400px;
+		height: 310px;
+
+	}
+	.imagenes{
+		width:500px;
+		heigth:500px;
+		background-image: black;
+	}
+	.videos{
+		width:1000;
+		heigth:1000px;
+		background-image: black;
+	}
+	.tituloparrafo{
+		font-family: Consolas;
+		text-decoration: underline;
+		text-shadow: 2px 2px 2px purple;
+		font-size: 35px;
+	}
+	.parrafo2{
+		font-family: Consolas;
+		text-align: justify;
+		line-height: 1.8;
+		margin: 30px;
+		padding: 30px;
+		font-size: 30px;
+
+	}
+	.tabla1{
+		width:1200px;
+		heigth:3000px;
+		background: paleturquoise;
+		font-family: fantasy;
+		text-align: center;
+		line-height: 1.8;
+		font-size: 25px;
+		letter-spacing: 3px;
+	}
+	.tabla2{
+		width:1200px;
+		heigth:1500px;
+		background: paleturquoise;
+		font-family: fantasy;
+		text-align: center;
+		line-height: 1.8;
+		font-size: 25px;
+		letter-spacing: 3px;
+
+	}
+	.tabla3{
+		width:1200px;
+		heigth:2000px;
+		background: paleturquoise;
+		font-family: fantasy;
+		text-align: center;
+		line-height: 2;
+		font-size: 25px;
+		letter-spacing: 3px;
+
+
+	}
+	.datospersonales{
+		width:600px;
+		heigth:400px;
+		background: lightpink;
+		font-family: Consolas;
+		border: 4px solid darkred;
+		border-radius: 15px;
+		font-size: 20px;
+		letter-spacing: 3px;
+		text-align: center;
+		margin: 20px;
+		padding: 30px;
+		line-height: 1.2;
+	}
+	.videos1{
+		width:300px;
+		height:200px;
+	}
+	.subrrayado{
+		text-decoration: underline;
+	text-shadow: 2px 2px 2px black;
+		font-size: 40px;
+	}
+	.boton{
+		width:180px;
+		heigth:250px;
+		background: palevioletred;
+		font-family: fantasy;
+		text-align: center;
+		font-size: 28px;
+		letter-spacing: 5px;
+		margin: 20px;
+		padding: 12px;
+		border: 15px;
+		border-radius: 15px;
+	}
+	.subrrayado1{
+		text-decoration: underline;
+	text-shadow: 2px 2px 2px lavenderblush;
+		font-size: 40px;
+	}
+
+
+
+
+
+
+	</style>
